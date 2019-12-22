@@ -1,0 +1,5 @@
+def two_fer(name=''):
+    greeting = name
+    if len(greeting) < 1:
+        greeting = 'you'
+    return f"One for {greeting}, one for me."

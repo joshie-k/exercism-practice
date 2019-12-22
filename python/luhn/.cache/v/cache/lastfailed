@@ -1,0 +1,8 @@
+{
+  "luhn_test.py::LuhnTest::test_a_valid_canadian_sin": true,
+  "luhn_test.py::LuhnTest::test_input_digit_9_is_correctly_converted_to_output_digit_9": true,
+  "luhn_test.py::LuhnTest::test_invalid_canadian_sin": true,
+  "luhn_test.py::LuhnTest::test_is_valid_can_be_called_repeatedly": true,
+  "luhn_test.py::LuhnTest::test_valid_number_with_an_even_number_of_digits": true,
+  "luhn_test.py::LuhnTest::test_valid_number_with_an_odd_number_of_spaces": true
+}
